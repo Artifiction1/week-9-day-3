@@ -40,4 +40,4 @@ class SearchEngine extends Component {
   );}
 }
 
-export default SearchEngine;
+export default SearchEngine
